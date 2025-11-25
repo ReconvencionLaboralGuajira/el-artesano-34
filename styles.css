@@ -1,7 +1,7 @@
 /* Estilos personalizados para el modelo de Artesanías */
 :root {
-    --primary: #4B2E05;
-    --secondary: #FFF5E1;
+    --primary: #808000;
+    --secondary: #7E8D60;
     --accent: #F1E4C6;
     --neutral: #D2A679;
     --surface: #fffaf5;
@@ -190,7 +190,7 @@ nav a:hover {
     inset: 0;
     background-image:
         linear-gradient(120deg, rgba(15,12,10,0.82), rgba(139, 94, 60, 0.62)),
-        url('images/15004f7cf75cc324a566df985e675259647a6e35.jpg');
+        url('images/a938d2fcc504f7986d87b904ea3deff842d289f6.png');
     background-size: cover;
     background-position: center;
     filter: contrast(1.05);
